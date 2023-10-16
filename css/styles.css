@@ -16,6 +16,11 @@ body {
     padding: 0.5em;
 }
 
+#cabecera i{
+    width: 25px;
+    height: 25px;
+}
+
 #cabecera #tagline {
     margin: 0 0 0 1em;
     font-weight: normal;
